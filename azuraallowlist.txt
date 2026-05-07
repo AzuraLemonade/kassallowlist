@@ -176,7 +176,7 @@ www.redditstatic.com
 reddit.map.fastly.net
 www.redditmedia.com
 reddit-uploaded-media.s3-accelerate.amazonaws.com
-allow twitter.com
-allow upload.twitter.com
-allow api.twitter.com
-allow mobile.twitter.com
+twitter.com
+upload.twitter.com
+api.twitter.com
+mobile.twitter.com
